@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------!
+VARIABLES DE ENTORNO:
+----------------------------------------------------------------------------------------!
+S.O actual........................: Windows_NT 
+Fecha actual......................: Sat 06/06/2020 
+Hora actual.......................: 21:52:39.04 
+Nombre del PC.....................: MAINX 
+Nombre del usuario................: Manager 
+Directorio raiz del sistema.......: C:\Windows 
+Directorio en que te encuentras...: C:\Users\Manager\Desktop\CODE\Java-EntornoWindows\entorno 
+Directorio de archivos temporales.: C:\Users\Manager\AppData\Local\Temp 
+Procesador........................: Intel64 Family 6 Model 23 Stepping 10, GenuineIntel 
+Procesador arquitectura...........: AMD64 
+Procesador nucleos................: 2 
+Procesador modelo.................: 6 
+Procesador revision...............: 170a
+----------------------------------------------------------------------------------------!
+
+@Seg1st - Estudiante miembro del grupo "El Programador"
+

@@ -1,0 +1,12 @@
+Ejercicio: Fichero escrito desde Java
+Andrés Segura
+
+Colombia
+España
+Mexico
+Brasil
+Ecuador
+Perú
+Venezuela
+Argentina
+Alemania
